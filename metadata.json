@@ -16,6 +16,8 @@
     "duration": 3,
     "prerequisites": [
         "atomic-learning-codespaces",
+        "codespace-terminal",
+        "vs-code-terminal",
         "cli-command-anatomy"
     ],
     "related": [
