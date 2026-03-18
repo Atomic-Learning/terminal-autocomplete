@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Autocompletion in the Terminal",
+    "slug": "terminal-autocomplete",
+    "description": "A discussion of using tab to autocomplete in the terminal.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "software-engineering",
+        "codespace",
+        "bash",
+        "zsh",
+        "powershell"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-codespaces",
+        "cli-command-anatomy"
     ],
     "related": [
-        "",
-        ""
+        "terminal-command-history-scrolling"
     ]
 }
