@@ -8,10 +8,7 @@
     "tags": [
         "programming",
         "software-engineering",
-        "codespace",
-        "bash",
-        "zsh",
-        "powershell"
+        "codespace"
     ],
     "duration": 3,
     "prerequisites": [
